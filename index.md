@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page Pigist.es
 
 You can use the [editor on GitHub](https://github.com/emericlegros/pigist.es/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
